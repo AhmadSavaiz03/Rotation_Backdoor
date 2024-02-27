@@ -1,9 +1,8 @@
-CIFAR 10 (10 epochs) 10% poison samples:
+<b>CIFAR 10</b> (10 epochs) 10% poison samples:
 Clean Data Accuracy: 90.29%
 Attack Success Rate: 28.31%
 
-
-GTSRB:
+<b>GTSRB:</b>
 10 epochs 10% poison samples:
 Clean Data Accuracy: 96.81%
 Attack Success Rate: 58.34%
